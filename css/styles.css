@@ -78,11 +78,8 @@ a:link {
 }
 
 footer{
-
-
-
-  width: 30%;
-  padding-left: 35%;
+width: 576px;
+  padding-left: 432px;
   padding-top: 755px;
   text-align: center;
   position: absolute;
